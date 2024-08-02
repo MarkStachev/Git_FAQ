@@ -30,5 +30,9 @@
 3. Убедиться, что Git установлен введя команду проверки версии Git `git version`, если версия отображается, значит Git установлен. 
 
 ___
-### Источники
-1. Яндекс Практикум. Базовый онлайн-курс "Основы работы с Git" <https://practicum.yandex.ru/git-basics/>
+### Материалы и полезные инструменты
+- [Яндекс Практикум. Базовый онлайн-курс "Основы работы с Git"] (https://practicum.yandex.ru/git-basics/)
+- [Синтаксис Markdown] (https://github.com/sandino/Markdown-Cheatsheet/blob/master/README.md)
+- [Markdown live editor] (https://markdown-here.com/livedemo.html)
+- [Статья о диаграммах Mermaid.js в README-файлах GitHub] (https://habr.com/ru/articles/652867/)
+- [Mermaid live editor] (https://mermaid.live/edit#pako:eNpVkEFrg0AQhf_KMKcG9A94KCTa5pLSQnOqehh0dJdkd5Z1JQT1v3eNLbRzmuF97zG8CRtpGTPsrnJrFPkA56KyEGdf5srrIRgaakjT5_nIAYxYvs9weDoKDEqc07bfbfxhhSCfTivGEJS2l2WT8of_3fIMRXkiF8TVf5XzTWZ4KfWHivH_FeU5ul7LjrKO0oY85ORrTNCwN6Tb-Pq0GioMig1XmMW1JX-psLJL5GgM8nm3DWbBj5ygl7FXGMOuQ7xG11LgQlPvyfwi3Oog_m0r5tFPgo7sl4j5MS7f0pBlZg)
