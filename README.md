@@ -36,3 +36,4 @@ ___
 - [Markdown live editor](https://markdown-here.com/livedemo.html)
 - [Статья о диаграммах Mermaid.js в README-файлах GitHub](https://habr.com/ru/articles/652867/)
 - [Mermaid live editor](https://mermaid.live/edit#pako:eNpVkEFrg0AQhf_KMKcG9A94KCTa5pLSQnOqehh0dJdkd5Z1JQT1v3eNLbRzmuF97zG8CRtpGTPsrnJrFPkA56KyEGdf5srrIRgaakjT5_nIAYxYvs9weDoKDEqc07bfbfxhhSCfTivGEJS2l2WT8of_3fIMRXkiF8TVf5XzTWZ4KfWHivH_FeU5ul7LjrKO0oY85ORrTNCwN6Tb-Pq0GioMig1XmMW1JX-psLJL5GgM8nm3DWbBj5ygl7FXGMOuQ7xG11LgQlPvyfwi3Oog_m0r5tFPgo7sl4j5MS7f0pBlZg)
+- [LearnGitBranching – интерактивный учебник по Git](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learngitbranching.js.org/&ved=2ahUKEwiIpdT-iOiHAxVCh1YBHY3BES8QFnoECBcQAQ&usg=AOvVaw2Rj9ViDXwUjaqtPhqYhCCH)
